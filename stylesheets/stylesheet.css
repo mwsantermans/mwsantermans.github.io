@@ -40,7 +40,43 @@ table {
 /*******************************************************************************
 Theme Styles
 *******************************************************************************/
-body {
-  font-family: helvetica;
-  color: #666666;
+h1 {
+	font-family: Helvetica;
+	font-size: 23px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
+}
+h3 {
+	font-family: Helvetica;
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
+}
+p {
+	font-family: Helvetica;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
+}
+blockquote {
+	font-family: Helvetica;
+	font-size: 17px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
+}
+pre {
+	font-family: Helvetica;
+	font-size: 11px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 100;
+	line-height: 23px;
 }
